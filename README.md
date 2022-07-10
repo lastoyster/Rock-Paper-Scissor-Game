@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor-Game
+Made with Vanilla Js
